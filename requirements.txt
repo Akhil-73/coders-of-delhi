@@ -1,0 +1,4 @@
+
+# No external dependencies — this project uses only Python standard library
+# Python >= 3.8 recommended
+# json  ← built-in, no install needed
