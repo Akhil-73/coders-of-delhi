@@ -140,17 +140,12 @@ pip install notebook
 
 ---
 
-## 📄 Documentation
-
-The full project brief — including problem statements, logic explanations, and expected outputs — is available in [`docs/Coders_of_Delhi.pdf`](docs/Coders_of_Delhi.pdf).
-
----
 
 ## 👤 Author
 
 **Akhilesh Kumar Shukla**  
 Aspiring Data Scientist | Jharkhand, India  
-[LinkedIn](#) · [GitHub](#)
+
 
 ---
 
